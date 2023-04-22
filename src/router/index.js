@@ -2,7 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 
 Vue.use(Router);
-
+// ok
 /* Layout */
 import Layout from "@/layout";
 
